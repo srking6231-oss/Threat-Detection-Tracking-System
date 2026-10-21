@@ -55,7 +55,7 @@ function friendly(string $s): string { return ucwords(str_replace('_', ' ', $s))
 <html lang="en">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TDTS — Threat Detection & Tracking System</title><link rel="stylesheet" href="assets/style.css">
+<title>TDTS — Threat Detection & Tracking System</title><link rel="stylesheet" href="style.css">
 </head>
 <body>
 <aside class="sidebar"><h2>🛡 TDTS</h2><p class="subtitle">THREAT INTELLIGENCE</p>
